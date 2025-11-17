@@ -102,5 +102,5 @@ curl -X 'GET' \
 
 videos_processed_total — сколько видео успешно обработано;
 videos_processing_errors_total — сколько было ошибок;
-videos_processing_time_seconds — гистограмма времени обработки видео.
+videos_processing_time_seconds — временя обработки видео.
 
