@@ -1,5 +1,3 @@
-# video-analyzer-service
-
 # Video Analyzer Service
 
 Cервис, который принимает видеофайл, проверяет наличие движения в кадре через OpenCV, сохраняет результат в PostgreSQL и отдаёт метрики в формате Prometheus.
